@@ -5,7 +5,7 @@ This project contains Instagram like filter using python libraries:
 1.  CV2: pip install opencv-python
     OpenCV (Open Source Computer Vision Library: http://opencv.org) is an open-source library that includes several hundreds of computer vision algorithms.
 
-2.MATPLOTLIB: pip install matplotlib
+2.  MATPLOTLIB: pip install matplotlib
     Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Matplotlib makes easy things easy and hard things possible.
 
     Create publication quality plots.
